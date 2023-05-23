@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
-<hr>
 <h3 align="center">Australian Full-Stack Web Developer.</h3>
 <h4 align="center">I enjoy learning languages and frameworks like React. I also enjoy web design and prototyping designs on Figma. You can check out my portfolio website here. </h4>
 
